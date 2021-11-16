@@ -1,0 +1,12 @@
+{
+"ID":"11082101",
+"name":"The Spricy Carolina Burger"
+"description":"This week's featured burger is the Spicy Carolina Burger. Our burger topped with Texas Pete infused chili, jalapeño slaw, pimento cheese, fried yellow onions and Cheerwine mustard on a toasted brioche bun. Served with Brunswick Stew. Paired with Hop Drop’n Roll from NoDa Brewing Company."
+"image":"img/110821_Burger.jpg",
+"side":{"sideName":"Brunswick Stew",
+        "sideDescription":null }
+"beerParing":{"beer":"Hop Drop'n Roll",
+              "brewer":"NoDa Brewing Company"},
+"offered":{"start":"20211108",
+          "end":"20211114"}
+}
